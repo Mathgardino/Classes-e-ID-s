@@ -1,3 +1,44 @@
 #conteudo{
     border: solid blue;
 }
+
+
+
+p {
+    color: red;
+}
+
+h1 { 
+    color: green;    
+}
+
+.azul {
+    color: rgb(60, 255, 0);
+}
+
+#cabecalho {
+    background: green;
+}
+
+
+#topo {
+    background-color: #0F1111;
+}
+
+#conteudo {
+    background-color: red;
+}
+
+#rod {
+    background-color: green;
+}
+
+.azul {
+    background-color: pink;
+}
+
+.prod {
+    background-color: gray;
+
+    margin: 10px;
+}
